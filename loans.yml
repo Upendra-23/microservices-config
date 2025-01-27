@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welocome to Eazybank Loans Local Rest API's"
+  contactDetails:
+    name: "Yeager - Developer"
+    email: "yeager@eazybank.com"
+  onCallSupport:
+    - (555) 1234-678
+    - (555) 3873-397
